@@ -1,0 +1,22 @@
+# ¿Qué es CSS?
+- CSS son las siglas de Cascading Style Sheets
+- CSS describe cómo se mostrarán los elementos HTML en la pantalla, el papel o en - otros medios.
+-CSS ahorra mucho trabajo. Puede controlar el diseño de varias páginas web a la vez
+- Las hojas de estilo externas se almacenan en archivos CSS
+
+## CSS Syntax
+![image text](https://www.w3schools.com/css/img_selector.gif)
+- Selector : un selector es una etiqueta HTML en la que se aplicará un estilo. Puede ser cualquier etiqueta como <h1> o <table>, etc.
+- Propiedad : una propiedad es un tipo de atributo de etiqueta HTML. En pocas palabras, todos los atributos HTML se convierten en propiedades CSS. Pueden ser de color , borde , etc.
+- Valor : los valores se asignan a las propiedades. Por ejemplo, la propiedad de color puede tener un valor rojo o # F1F1F1, etc.
+- Puede poner la sintaxis de la regla de estilo CSS de la siguiente manera:
+
+## selector { property: value }
+| Selector | Example || Example description |
+
+| #id  | #firstname  | Selects the element with id="firstname"  |
+| .class  | .intro  | Selects all elements with class="intro"  |
+| element.class | p.intro  | Selects only <p> elements with class="intro"  |
+| * | *  |Selects all elements  |
+| element | p | Selects all <p> elements  |
+| element,element,.. | div, p  | Selects all <div> elements and all <p> elements  |
