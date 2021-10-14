@@ -7,7 +7,7 @@
 ## CSS Syntax
 ![image text](https://www.w3schools.com/css/img_selector.gif)
 
-- **Selector** : un selector es una etiqueta HTML en la que se aplicará un estilo. Puede ser cualquier etiqueta como <h1> o <table>, etc.
+- **Selector** : un selector es una etiqueta HTML en la que se aplicará un estilo. Puede ser cualquier etiqueta como h1 o table, etc.
 - **Propiedad** : una propiedad es un tipo de atributo de etiqueta HTML. En pocas palabras, todos los atributos HTML se convierten en propiedades CSS. Pueden ser de color , borde , etc.
 - **Valor** : los valores se asignan a las propiedades. Por ejemplo, la propiedad de color puede tener un valor rojo o # F1F1F1, etc.
 - Puede poner la sintaxis de la regla de estilo CSS de la siguiente manera:
