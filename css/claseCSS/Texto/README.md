@@ -1,12 +1,3 @@
-
-
-# README.MD
-Practicas css y html basicos
-
-
-## Content
-
-Practicas css y html basicos
 # ¿Qué es CSS?
 - CSS son las siglas de Cascading Style Sheets
 - CSS describe cómo se mostrarán los elementos HTML en la pantalla, el papel o en - otros medios.
@@ -46,10 +37,3 @@ Ejemplo: Ver Ejercicio4
 | * | *  |Selects all elements  |
 | element | p | Selects all <p> elements  |
 | element,element,.. | div, p  | Selects all <div> elements and all <p> elements  |
-
-# CSS: Texto
-- Color del texto: color  [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/tree/css/Texto/Colortexto.html).
-- Color de fondo: background-color [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/tree/css/Texto/Colordefondo.html).
-- Alineación horizontal: text-align [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/tree/css/Texto/Alineacionhorizontal.html).
-- Sangría: text-indent [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/tree/css/Texto/Sangria.html).
--Espaciado de letras: letter-spacing [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/tree/css/Texto/Espaciadoletras.html).

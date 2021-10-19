@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Espaciado de letras: letter-spacing </title>
+    <!--link rel="stylesheet" href="./style.css"-->
+    <style>
+       p {
+         letter-spacing: 5px;
+        }
+
+         p.espaciado {
+         letter-spacing: 10px;
+        }
+        p.negativo {
+         letter-spacing: -2px;
+        }
+        span {
+          letter-spacing: 10px;
+          text-decoration: underline;
+          /*  text-decoration se usa para establecer el formato de texto a subrayado*/
+          background-color: lightblue;
+          text-align: center;
+        }
+         </style>
+  </head>
+  <body>
+    <main>
+        <h1>La propiedad letter-spacing permite establecer un espaciado entre cada una de las letras de un bloque de texto. Estos valores, positivos o negativos, se establecen como cualquier otra longitud y se añaden al espaciado normal.
+        </h1>
+        <p>Esto es un párrafo con un espaciado entre letras mayor de lo normal.</p>
+        <p class="espaciado">Esto es un párrafo con un espaciado entre letras mayor de lo normal</p>
+
+        <p class="negativo">Esto es un párrafo con un espaciado entre letras negativo, que apenas se puede leer.</p>
+
+        <!--La propiedad letter-spacing se aplica a todas las letras, incluida la última, como muestran los ejemplos siguientes en los que se añade un espacio final:-->
+        <span>Esto es un párrafo con un espaciado entre letras mayor de lo normal.</span>
+        <span class="espaciado">Esto es un párrafo con un espaciado entre letras mayor de lo normal</span>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clase Alineación horizontal: text-align </title>
+    <!--link rel="stylesheet" href="./style.css"-->
+    <style>
+        body {
+             text-align: justify;
+            }
+            h1 {
+                text-align: center;
+            }
+            
+            p {
+                text-align: right;
+            }
+            .centrado {
+                text-align: center;
+            }
+            #right {
+                 color: darkblue;
+                  font-size: 24px;
+                }
+                 #justify {
+                    text-align: justify;
+                     color: darkblue;
+                      font-size: 24px;
+                    }
+        </style>
+  </head>
+  <body>
+    <main>
+        <h1>La propiedad text-align permite establecer la alineación horizontal de un bloque de texto</h1>
+        <p> Los posibles valores de text-align son left (izquierda), right (derecha), center (centro) y justify (justificado a derecha e izquierda).</p>
+        <p>Para centrar una imagen, el elemento que contiene la imagen tiene que tener su contenido centrado. Por ejemplo, si la imagen está en un párrafo, se puede definir la clase "p.centrado" con el atributo text-align establecido con el valor center y después dar al párrafo que contiene la imagen la clase "centrado". Lógicamente, si se añade texto al párrafo, el texto también se centrará.</p>
+
+        <p class="centrado">
+            <img src="cabeza-de-ganado.png" alt="Logotipo cabeza-de-ganado" width="129" height="122">
+          </p>
+          <p id="right"> Blanco y negro con estilo de dibujos animados pintados a mano.
+            <img src="cabeza-de-ganado.png" alt="Logotipo cabeza-de-ganado" width="129" height="122">
+          </p>
+          <p id="justify"> Blanco y negro con estilo de dibujos animados pintados a mano.
+            <img src="cabeza-de-ganado.png" alt="Logotipo cabeza-de-ganado" width="129" height="122">
+          </p>
+    </main>
+  </body>
+</html>

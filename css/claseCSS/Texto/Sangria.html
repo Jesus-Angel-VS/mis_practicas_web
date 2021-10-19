@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sangría: text-indent </title>
+    <!--link rel="stylesheet" href="./style.css"-->
+    <style>
+       p.normal { 
+           text-indent: 25px;
+        }
+        p.sangría_negativa {
+            text-indent: -25px;
+        }
+        p.párrafo{
+            margin-left: 25px;
+            text-indent: -25px;
+        }
+         </style>
+  </head>
+  <body>
+    <main>
+        <h1>La propiedad text-indent permite establecer la sangría de un bloque de texto. Su valor se puede establecer como cualquier otra longitud.
+        </h1>
+        <p class="normal">Esto es un párrafo "p" normal y corriente cuya primera línea tiene sangría, es decir, empieza más a la derecha que el resto de líneas del párrafo. La sangría es habitual en España (y no sólo para beberla)..</p>
+        <p class="sangría_negativa">Esto es un párrafo "p" normal y corriente cuya primera línea tiene sangría negativa (sangría francesa), por ello la primera línea empieza más a la izquierda que el resto de líneas del párrafo. Como se sale de la celda, se ve mal, pero poniendo margen al párrafo se corrige este problema (ver ejemplo siguiente).</p>
+
+        <p class="párrafo">Esto es un párrafo "p" normal y corriente cuya primera línea tiene sangría negativa (sangría francesa), por ello la primera línea empieza más a la izquierda que el resto de líneas del párrafo. Como se sale de la celda, se ve mal, pero poniendo margen al párrafo se corrige este problema (ver ejemplo siguiente).</p>
+    </main>
+  </body>
+</html>
