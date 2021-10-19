@@ -46,9 +46,8 @@ Ejemplo: Ver Ejercicio4
 | element,element,.. | div, p  | Selects all <div> elements and all <p> elements  |
 
 # CSS: Texto
-- Color del texto: color  [GitHub Pages](# CSS: Textohttps://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Colortexto.html
-).
-- Color de fondo: background-color [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web//blob/css/css/claseCSS//css/Texto/Colordefondo.html).
-- Alineación horizontal: text-align [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web//blob/css/css/claseCSS//css/Texto/Alineacionhorizontal.html).
-- Sangría: text-indent [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/tree//blob/css/css/claseCSS//Texto/Sangria.html).
--Espaciado de letras: letter-spacing [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/tree//blob/css/css/claseCSS//Texto/Espaciadoletras.html).
+- Color del texto: color  [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Colortexto.html).
+- Color de fondo: background-color [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Colordefondo.html).
+- Alineación horizontal: text-align [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Alineacionhorizontal.html).
+- Sangría: text-indent [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Sangria.html).
+-Espaciado de letras: letter-spacing [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Espaciadoletras.html).
