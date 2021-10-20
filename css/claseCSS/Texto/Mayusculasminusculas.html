@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mayúsculas / minúsculas: text-transform</title>
+    <!--link rel="stylesheet" href="./style.css"-->
+    <style>
+       p {
+         /*  El valor capitalize únicamente transforma la primera letra de cada palabra, el resto de letras se mantienen como estén (minúsculas o mayúsculas).*/
+        text-transform: capitalize;
+        }
+        p.mayusculas {
+          text-transform: uppercase;
+        }
+        p.minusculas {
+          text-transform: lowercase;
+        }
+         </style>
+  </head>
+  <body>
+    <main>
+        <h1>La propiedad text-transform permite cambiar el texto a minúsculas o mayúsculas. Los posibles valores de text-transform son none (ninguno), capitalize (la primera letra de cada palabra en mayúsculas), uppercase (todas las letras en mayúsculas) y lowercase (todas las letras en minúsculas).</h1>
+        <p>En Este Párrafo Todas Las Palabras Empiezan Por Mayúscula.</p>
+        <p class="mayusculas">EN ESTE PÁRRAFO TODAS LAS LETRAS SON MAYÚSCULAS.</p>
+        <p class="minusculas">en este párrafo todas las letras son minúsculas.</p>
+    </main>
+  </body>
+</html>
