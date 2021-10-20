@@ -1,3 +1,10 @@
+
+
+# Practicas css y html basicos
+
+
+## Practicas css y html basicos
+
 # ¿Qué es CSS?
 - CSS son las siglas de Cascading Style Sheets
 - CSS describe cómo se mostrarán los elementos HTML en la pantalla, el papel o en - otros medios.
@@ -37,3 +44,13 @@ Ejemplo: Ver Ejercicio4
 | * | *  |Selects all elements  |
 | element | p | Selects all <p> elements  |
 | element,element,.. | div, p  | Selects all <div> elements and all <p> elements  |
+
+# CSS: Texto
+- Color del texto: color  [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Colortexto.html).
+- Color de fondo: background-color [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Colordefondo.html).
+- Alineación horizontal: text-align [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Alineacionhorizontal.html).
+- Sangría: text-indent [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Sangria.html).
+- Espaciado de letras: letter-spacing [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Espaciadoletras.html).
+- Espaciado de palabras: word-spacing  [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Espaciadopalabras.html).
+- Decoración: text-decoration [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Decoracion.html).
+- Mayúsculas / minúsculas: text-transform [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Mayusculasminusculas.html).
