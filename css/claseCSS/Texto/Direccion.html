@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dirección: direction</title>
+    <!--link rel="stylesheet" href="./style.css"-->
+    <style>
+       p {
+        direction: ltr;
+        }
+        .derecha{
+          direction: rtl;
+        }
+        .unicode-bidi{
+          /*Para que la propiedad direction se imponga al algoritmo de dirección de escritura del navegador, es necesario utilizar también la propiedad unicode-bidi.*/
+          direction: rtl;
+          unicode-bidi: bidi-override
+        }
+         </style>
+  </head>
+  <body>
+    <main>
+        <h1>La propiedad direction permite establecer la dirección de escritura. Los posibles valores de direction son ltr (de izquierda a derecha) y rtl (de derecha a izquierda).</h1>
+        <p>Esto es un párrafo con dirección de izquierda a derecha.</p>
+        <p class="derecha">Esto es un párrafo con dirección de derecha a izquierda.</p>
+        
+        <p class="unicode-bidi">Esto es un párrafo con dirección de derecha a izquierda.</p>
+        <h3>unicode-bidiunicode-bidi
+          La propiedad unicode-bidi permite establecer el algoritmo de establecimiento de direccionalidad. Los posibles valores de unicode-bidi son normal (no modifica el algoritmo utilizado por el navegador), embed (para elementos en-línea, la dirección se puede redefinir en ellos), isolate, bidi-override (para elementos en-línea y bloques, la dirección se puede redefinir en cualquier elemento y sub-elemento del bloque), isolate-override y plaintext.Los ejemplos siguientes muestran el efecto del valor bidi-override y embed. La dirección de escritura de un bloque se puede modificar si se aplica bidi-override al bloque, mientras que la dirección de un elemento en-línea se puede modificar aplicando bidi-override o embed al elemento en-línea.</h3>
+        
+    </main>
+  </body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sombreado: text-shadow</title>
+    <!--link rel="stylesheet" href="./style.css"-->
+    <style>
+       p {
+         font-size: 200%;
+         font-weight: bold;
+         letter-spacing: 10px;
+         text-align: center;
+         /*Si se escriben dos distancias, la primera distancia es la distancia horizontal y la segunda la distancia vertical de la sombra con respecto al texto*/
+         text-shadow: gray 6px 0;
+         /*text-shadow: gray -6px 0;
+         text-shadow: gray  0 6px;
+         text-shadow: gray  0 6px;
+         text-shadow: gray  6px 6px;*/
+         /*Si se escriben tres distancias, la tercera distancia indica el tamaño del difuminado de la sombra.
+         text-shadow: gray  6px 6px 2px;
+         text-shadow: black 6px 6px 4px;
+         text-shadow: black 6px 6px 6px;
+         text-shadow: black 6px 6px 8px;*/
+         /*Se pueden definir varias sombras simultáneamente, escribiéndolas separadas por comas (,)
+         text-shadow: gray 8px 8px, gray -8px -8px;*/
+
+         text-transform: uppercase;
+        }
+         </style>
+  </head>
+  <body>
+    <main>
+        <h1>La propiedad text-shadow permite añadir una o varias sombras al texto. Para definir cada sombra hay que indicar el color de la sombra (si se omite, se utiliza el color del texto), la distancia horizontal (positiva o negativa), la distancia vertical (positiva o negativa) y el diámetro de desenfoque.</h1>
+        <p>TEXTO SOMBREADO</p>
+        <p>TEXTO SOMBREADO</p>
+        <p>TEXTO SOMBREADO</p>
+    </main>
+  </body>
+</html>

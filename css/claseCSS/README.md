@@ -54,3 +54,5 @@ Ejemplo: Ver Ejercicio4
 - Espaciado de palabras: word-spacing  [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Espaciadopalabras.html).
 - Decoración: text-decoration [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Decoracion.html).
 - Mayúsculas / minúsculas: text-transform [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Mayusculasminusculas.html).
+- Sombreado: text-shadow [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Sombreado.html).
+- Dirección: direction: text-transform [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Direccion.html).
