@@ -57,7 +57,7 @@ Ejemplo: Ver Ejercicio4
 - Sombreado: text-shadow [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Sombreado.html).
 - Dirección: direction: text-transform [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCSS/Texto/Direccion.html).
 
-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 
 - clasePseudoClases: **Pseudo classes:** Define el estilo de un estado especial de un elemento. **Pseudo elementos:** Define el estilo de una parte específica de un elemento. [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/clasePseudoClases).
@@ -76,7 +76,8 @@ Ejemplo: Ver Ejercicio4
 
 - claseMedidas: Las unidades **absolutas** son un tipo de medida fija que no cambia. Las **unidades relativas** son un tipo de medida mucho más potente y habitual en el CSS que creamos generalmente. Al contrario que las unidades absolutas, las **unidades relativas** dependen de algún otro factor (resolución, tamaño de letra, etc...).
 [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseMedidas).
-![image text](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCombinadores/Medidas.png)
+
+![image text](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseMedidas/Medidas.png).
 
 - clasePosition:  Esta propiedad tiene un montón de posibles valores, sus nombres no tienen sentido y son casi imposibles de memorizar. **static " Por defecto",absolute,relative,fixed,sticky** [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/clasePosition).
 

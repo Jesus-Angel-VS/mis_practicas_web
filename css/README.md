@@ -76,7 +76,8 @@ Ejemplo: Ver Ejercicio4
 
 - claseMedidas: Las unidades **absolutas** son un tipo de medida fija que no cambia. Las **unidades relativas** son un tipo de medida mucho más potente y habitual en el CSS que creamos generalmente. Al contrario que las unidades absolutas, las **unidades relativas** dependen de algún otro factor (resolución, tamaño de letra, etc...).
 [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseMedidas).
-![image text](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseCombinadores/Medidas.png)
+
+![image text](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/claseMedidas/Medidas.png).
 
 - clasePosition:  Esta propiedad tiene un montón de posibles valores, sus nombres no tienen sentido y son casi imposibles de memorizar. **static " Por defecto",absolute,relative,fixed,sticky** [GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/css/css/clasePosition).
 
