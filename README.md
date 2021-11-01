@@ -84,14 +84,16 @@ Ejemplo: Ver Ejercicio4
 
 
 ----------------------------------------------------------------------------
+
+
 # Responsive Design
 
 ### Mobile First / Only
-**Mostly Fluid:** El patrón Mostly fluid consiste, principalmente, en una cuadrícula fluida. Por lo general, en las pantallas grandes o medianas se mantiene el mismo tamaño y simplemente se ajustan los márgenes en las más anchas.[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/responsivedesign/responsivedesign/mostlyFluid).
+**Mostly Fluid:** El patrón Mostly fluid consiste, principalmente, en una cuadrícula fluida. Por lo general, en las pantallas grandes o medianas se mantiene el mismo tamaño y simplemente se ajustan los márgenes en las más anchas.[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/responsivedesign/mostlyFluid).
 
-**Column drop:** En el caso de los diseños con varias columnas de ancho completo, durante el proceso de colocación de columnas éstas únicamente se colocan de forma vertical debido a que el ancho de la ventana es demasiado reducido para el contenido.[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/responsivedesign/responsivedesign/columnDrop:).
+**Column drop:** En el caso de los diseños con varias columnas de ancho completo, durante el proceso de colocación de columnas éstas únicamente se colocan de forma vertical debido a que el ancho de la ventana es demasiado reducido para el contenido.[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/responsivedesign/columnDrop:).
 
-**Layout shifter:** El patrón Layout shifter es el más adaptable, ya que posee varios puntos de interrupción en diferentes anchos de pantalla.[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/responsivedesign/responsivedesign/LayoutShifter).
+**Layout shifter:** El patrón Layout shifter es el más adaptable, ya que posee varios puntos de interrupción en diferentes anchos de pantalla.[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/responsivedesign/LayoutShifter).
 
 
 **Off canvas:** En lugar de apilar contenido verticalmente, el patrón Off canvas coloca contenido menos usado (tal vez menús de navegación o de apps) fuera de la pantalla y solo lo muestra cuando el tamaño de la pantalla es suficientemente grande.
@@ -104,9 +106,10 @@ Separa siempre tus archivos de CSS por break point
 - desktop.css
 
 ### Responsive Imágenes
-Para trabajar con imagenes responsivas se recomienda usar la "etiqueta picture".[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/responsivedesign/responsivedesign/responsivedesign).
-
+Para trabajar con imagenes responsivas se recomienda usar la "etiqueta picture".[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/responsivedesign/ResponsiveImgs).
 ----------------------------------------------------------------------------
+
+
 # Accesibilidad
 
 ### Semántica
@@ -115,9 +118,9 @@ La semántica está relacionada con las etiquetas contenedoras en HTML5, por eje
 Por eso, es importante utilizar las diferentes etiquetas que HTML5 ofrece para tener la mejor semántica posible y la accesibilidad.
 
 ### Textos
-Respecto a los textos en mejor usar medidas relativas, como "rem", en lugar de medidas absolutas. Esto mejora la accesibilidad visual.[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/accesibilidad/accesibilidad/texto).
+Respecto a los textos en mejor usar medidas relativas, como "rem", en lugar de medidas absolutas. Esto mejora la accesibilidad visual.[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/accesibilidad/texto).
 
 ### Labels, alt y titles
 - El uso de <label> en los formularios facilita la interacción de las personas y software con ellos. Por ejemplo al apretar la barra de espacio en un input que despligue un submenú, este se mostrará.
 - alt en las imágenes proporciona una descripción para un lector de contenido.
-- El atributo title puede ser usado en las etiquetas img y a para dar una descripción de sus contenidos al hacer hover..[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/accesibilidad/accesibilidad/claseLabelAltTitle).
+- El atributo title puede ser usado en las etiquetas img y a para dar una descripción de sus contenidos al hacer hover.[GitHub Pages](https://github.com/Jesus-Angel-VS/mis_practicas_web/blob/accesibilidad/claseLabelAltTitle).
